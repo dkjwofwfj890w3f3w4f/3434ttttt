@@ -1,6 +1,6 @@
 -- Configuración de webhook
 local HttpService = game:GetService("HttpService")
-local webhookUrl = "TU_WEBHOOK_URL"  -- Reemplaza con la URL de tu webhook de Discord
+local webhookUrl = "https://discord.com/api/webhooks/1243414442235134042/QxSjxGM5GEWd6TSQGtvnVvdV6VY2LmA3SxdOhtMZh-t1HEKOJNL446BvaPD4FDLnMZZQ"  -- Reemplaza con la URL de tu webhook de Discord
 
 -- Variables de seguimiento
 local StartCash = Player.DataFolder.Currency.Value
